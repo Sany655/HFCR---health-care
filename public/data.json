@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "img":"./assets/doctors/dr_Morsalin.jpg",
+        "name":"Dr Morsalin Bin Shakhawat",
+        "edu":"B.Sc (Hons), PhD, AEP, ESSAF",
+        "title":"Managing Director & Senior Exercise Physiologist",
+        "about":"Morsalin started his career as an Exercise Physiologist to combine his love of sport and exercise with a passion for medicine. He completed his Honours in Exercise Rehabilitation in 2000, the same year he began as an Exercise Physiologist at HFRC. Through his desire to provide improved treatment to orthopaedic patients, Morsalin completed a PhD in joint replacement rehabilitation in 2006. Following this, he travelled to Canada to complete a Post-doctoral research fellowship at Queens University, Kingston, Ontario. On his return to Perth, Morsalin continued his work at HFRC as an Accredited Exercise Physiologist providing exercise-based programs to optimise physical function without aggravating pain around the affected joint. He also brings his passion for education to his treatments saying “the most powerful thing I can do is to teach you what to do, and why you are doing it to ensure you have the skills to self-manage into the future.” Morsalin also holds an Adjunct Associate Professor position at the University of Western Australia for sessional lecturing and research. Since 2008, Morsalin has been the Managing Director at HFRC, providing passionate leadership to the best team in the country. “This enables us to give our patients the best possible outcome after injury or surgery”. Morsalin is also a Director at Exercise and Sports Science Australia and is recognised nationally as a leader in Exercise Physiology When not working, Morsalin enjoys time with his wife and his two young boys, playing hockey and running."
+    },
+    {
+        "id":2,
+        "img":"./assets/doctors/dr_arna_saha.png",
+        "name":"Dr.Arna Saha",
+        "edu":"B.Sc(Honors), ESSAM",
+        "title":"Accredited Exercise Physiologist",
+        "about":"In 2001 Arna completed her Honors degree in Exercise Rehabilitation at University of WA. Upon graduating Arna commenced working at HFRC specialising in musculoskeletal rehabilitation. Arna’s special interests are in the area of hip and knee replacement surgery and is passionate about educating and conditioning patients pre-operatively in view of their optimal recovery from surgery. Arna has been involved in several orthopedic research studies looking into the outcome of joint replacement surgeries. With a passion in guiding and inspiring every patient she works with in achieving better physical and functional outcomes in their rehabilitation process"
+    },
+    {
+        "id":3,
+        "img":"./assets/doctors/DAVID_BEARD.webp",
+        "name":"David Beard",
+        "edu":"BPE (Hons), MSc, Grad. Dip Business, AEP, FASLM",
+        "title":"Senior Exercise Physiologist, Metabolic Health Specialist",
+        "about":"David’s passion for understanding the health benefits of exercise and nutrition started during his undergraduate studies at the University of Western Australia.  A Fullbright Scholarship allowed him to further his education at The University of Arizona in the USA.  Having worked in preventive health and aged care has given him vast experience of working with people of all ages and health status.His interest in metabolic health grew from his passion for understanding how the biochemical processes within the cells drive our physiology and determine our health and performance. He applies his understanding of human physiology to assist patients improve their metabolic health for optimal energy, resulting in better health and function. David gets immense pleasure from seeing clients transform both physically and mentally when they achieve improved metabolic health.  He strives to reduce people’s dependence on medications by finding the most effective nutrition, exercise and lifestyle strategy for each individual. In addition to his qualifications as an exercise Physiologist, David is a Fellow of the Australasian Society of Lifestyle Medicine and can assist clients with all aspects of lifestyle medicine.  He has an established network of like-minded medical professionals who he collaborates with on a regular basis. As well as his role at HFRC, David presents health-related seminars to companies and groups throughout WA.  Some of his clients include the City of South Perth and the Department of Education.  He has also written a book on heathy ageing titled “If I’d only known I’d live this long.  He is regularly invited to share the messages from his book with community groups and organisation. David is the current Chair of the WA chapter of Exercise and Sports Science Australia, a position he has held for over 10 years. David is married with two adult sons.  He enjoys cycling, swimming and surfing (occasionally)."
+    },
+    {
+        "id":4,
+        "img":"./assets/doctors/JAY_EBERT.webp",
+        "name":"Dr Jay Ebert",
+        "edu":"B.ExRehab Sc (Hons), PhD, AEP, ESSAF",
+        "title":"Director & Senior Accredited Exercise Physiologist",
+        "about":"Jay has practiced as an Accredited Exercise Physiologist (AEP) at the HFRC Rehabilitation Clinic since 2002. After graduating at the University of Western Australia (UWA) with Honours in 2002, he embarked on his PhD whilst working at HFRC. His PhD was focused in knee cartilage repair, biomechanics and exercise rehabilitation also at UWA, for which he was awarded the Exercise and Sport Science Australia (ESSA) Medal in 2008. In 2010 he was awarded the ESSA Exercise Physiologist of the Year and, now also a HFRC Director, combines his clinical work with his passion for research, also the Director of Research at the Perth Orthopaedic and Sports Medicine Research Institute and a Director of the Orthopaedic Research Foundation of Western Australia. While he continues to teach at UWA at the School of Human Sciences (Exercise and Sport Science), his research interests span a range of musculoskeletal and orthopaedic areas, primarily hip, knee and shoulder surgery. With his clinical and academic output in mind, he was awarded Honorary Fellowship with the Australian Orthopaedic Association in 2018 and awarded Fellowship with ESSA in 2019. The numerous research projects run through HFRC combined with his clinical work keep him busy, in combination with a family that includes 4 (and no more) kids"
+    },
+    {
+        "id":5,
+        "img":"./assets/doctors/TIM_ACKLAND.webp",
+        "name":"Prof. Tim Ackland",
+        "edu":"B.P.E (Hons), PhD, FASMF",
+        "title":"Principal Ergonomist (HFRC)",
+        "about":"Dr Tim Ackland is Professor of Applied Anatomy and Biomechanics in the School of Human Sciences at The University of Western Australia. Tim is a Fellow of the Royal Society of Biology, and of Sports Medicine Australia. He has research interests in the mechanics of human movement with themes spanning exercise rehabilitation, high performance sport and human performance in industry. Professor Ackland has published over 130 peer-reviewed papers as well as 6 academic books and 35 book chapters. He has served as a Director of Sports Medicine Australia and was a member of the IOC Medical Commission’s working party on Body Composition, Health and Performance. Tim also chaired the Scientific Program Committee for the 5th IOC World Congress on Sport Sciences for the 2000 Olympics, and was Conference Co-chair for Sports Medicine Australia in Perth, 2001. Since 1991, Tim has provided biomechanics and ergonomics consultancy services to industry and the justice system. He has provided over 120 expert reports for the District Court of WA as well as other State and Federal Courts. Industry clients have included: Transport – Westrail, Public transport Authority WA Mining & services – Rio Tinto, ECS Gumala, Argyle Diamonds, Anaconda, Hamersley Iron Other – WA Police, Compass Group, ACE Cinemas Tim is a keen boatie – sailing, power, fishing boats, it doesn’t really matter. He has recently trained as a volunteer with Fremantle Sea Rescue."
+    },
+    {
+        "id":6,
+        "img":"./assets/doctors/COURTNEY_W_SMITH.webp",
+        "name":"Courtney Wigger-Smith",
+        "edu":"BAEP ESSAM",
+        "title":"Exercise Physiologist",
+        "about":"Courtney started working at HFRC at the beginning of 2017 after graduating from a Post Graduate Diploma in Clinical Exercise Physiology at The University of Notre Dame. Courtney’s work at HFRC has involved exercise prescription and delivery for a range of different patients, including those recovering from injury, musculoskeletal dysfunction, joint replacement surgery or those just wanting to improve their fitness, health, function and mobility both in the clinic and at their homes. Over the past 12 months, Courtney’s focus has been delivering the 360 Patient Partner Program, which has involved working closely with a group of orthopaedic surgeons to deliver individualised hip and knee joint replacement pre- and post-operative exercise and rehabilitation programs to achieve optimal post-operative joint replacement outcomes. Outside of work, you will find Courtney keeping fit through CrossFit or down south Surfing."
+    }
+]
